@@ -1,0 +1,85 @@
+.main  {
+
+
+    background-image: url(img/img1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+
+
+.btns{
+display: inline-block;
+text-align: center;
+width: 100%;
+margin: 0 auto;
+padding: 20px;
+padding-top: 200px;
+
+}
+
+.bdy{
+background-color: #8E44AD;
+
+}
+
+.Quiz{
+
+
+width: 80%;
+margin: 0 auto;
+padding-top: 20px;
+margin-top: 140px;
+background-color: rgb(203, 207, 196);
+height: 400px;
+border-radius: 20px;
+opacity: 200px;
+color:black;
+font-size: larger;
+font-weight: 300px;
+padding: 60px;
+border-color: darkgoldenrod;
+border: 2%solid;
+font-weight: 400;
+font-weight: bolder;
+
+}
+
+
+.qest{
+
+text-decoration: none;
+
+
+}
+
+li{
+
+padding:20px;
+font-weight: 800;
+text-shadow: darkgoldenrod;
+list-style: none;
+
+
+}
+
+p{
+
+display: inline-block;
+cursor: pointer;
+
+
+}
+
+.active{
+
+background-color: red;
+}
+
+p:hover{
+
+
+    background-color: slateblue;
+
+}
